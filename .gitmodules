@@ -1,0 +1,8 @@
+[submodule "deps/realm-object-store"]
+	path = deps/realm-object-store
+	url = https://github.com/realm/realm-object-store.git
+	shallow = true
+[submodule "deps/libuv"]
+	path = deps/libuv
+	url = https://github.com/libuv/libuv.git
+	shallow = true
