@@ -6,3 +6,7 @@
 	path = deps/libuv
 	url = https://github.com/libuv/libuv.git
 	shallow = true
+[submodule "deps/realm-core"]
+	path = deps/realm-core
+	url = https://github.com/realm/realm-core.git
+	shallow = true
