@@ -1,7 +1,6 @@
 [submodule "deps/realm-object-store"]
 	path = deps/realm-object-store
 	url = https://github.com/realm/realm-object-store.git
-	shallow = true
 	branch = master
 [submodule "deps/libuv"]
 	path = deps/libuv
