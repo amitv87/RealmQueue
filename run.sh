@@ -8,7 +8,5 @@ cmake ..
 make -j$NUM_CPU
 
 ls -lah realmqueue
-strip -Sx realmqueue
-ls -lah realmqueue
 
 ./realmqueue
